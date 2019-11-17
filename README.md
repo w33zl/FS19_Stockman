@@ -25,7 +25,7 @@ In normal mode, which is the default when you load your savegame, there are thre
 
 Additionally you can manually disable the automatic pen info or show a full overview of all your pens. You can toggle this behavior with the bindable hotkey (default F9) and cycle through these three states:
 
-A) Show popup only for nearby pen (default)
+A) Show popup only for nearby pen (default) 
 B) Show popup with full overview
 C) Disabled / no popup info
 
@@ -42,4 +42,3 @@ C) Disabled / no popup info
 * Optimized and tested for Seasons (might work quite well for the vanilla game also, but this is unverified)
 * No settings to manually disable the alerts and icons
 * No translations, everything is (currently) in english (however there are prepared translation files if anyone would be inclined to translate) 
-
