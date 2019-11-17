@@ -40,5 +40,5 @@ C) Disabled / no popup info
 * Currently only supports one pen per animal type
 * Optimized and tested for Seasons (might work quite well for the vanilla game also, but this is unverified)
 * No settings to manually disable the alerts and icons
-* No translations, everything is (currently) in english (however there are prepared translation files if anyone would be inclined to translate)
+* No translations, everything is (currently) in english (however there are prepared translation files if anyone would be inclined to translate) 
 
