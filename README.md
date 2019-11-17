@@ -1,14 +1,12 @@
-#############################################################################
 # Stockman for Farming Simulator 19 - By w33zl
-#############################################################################
 
 Stockman HUD gives you an overview of your animal husbandry with alerts and summaries of performance indicators (key statistics). This helps you be effective when caring for your livestock.
 
 The mod is inspired by the great AnimalsHUD from xDeekay but with more focus on alerts and selective information as well as being built specifically for Seasons.
 
 
-# FEATURES: 
-¨¨¨¨¨¨¨¨¨¨¨
+## FEATURES: 
+
 * Icons displays the overall status and performance for each animal type (the color of the icon indicates the overall status)
 * Alerts gives you brief messages of the most urgent things to attend to (low food, shortage on water etc)
 * Stockman automatically displays a summary for a particular pen when you get nearby
@@ -17,8 +15,7 @@ The mod is inspired by the great AnimalsHUD from xDeekay but with more focus on 
 * The text in the overview and pen-info overlays is shaded and displayed on a semi-transparent black background for good visibillity in most situations
 
 
-# HOW IT WORKS: 
-¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+## HOW IT WORKS: 
 In normal mode, which is the default when you load your savegame, there are three parts that are active:
 1) The icons displaying which animal pens you have
 2) The alerts adjacent to the icons (only if there are any stats behlow the thresholds)
