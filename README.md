@@ -4,6 +4,8 @@ Stockman HUD gives you an overview of your animal husbandry with alerts and summ
 
 The mod is inspired by the great AnimalsHUD from xDeekay but with more focus on alerts and selective information as well as being built specifically for Seasons.
 
+![](./images/stockman_preview_overview_alerts =100x20)
+
 
 ## FEATURES: 
 
