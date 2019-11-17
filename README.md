@@ -30,7 +30,7 @@ C) Disabled / no popup info
 
 
 ## INSTALLATION: 
-1. Download the mod (zip-file) http://modsfile.com/users/w33zl/
+1. Download the mod (zip-file) https://github.com/w33zl/FS19_Stockman/raw/master/releases/latest/FS19_Stockman.zip
 2. Copy the zip-archive to your mods-folder
 3. Activate the mod when loading your savegame
 4. Enjoy
