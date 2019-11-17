@@ -24,9 +24,10 @@ In normal mode, which is the default when you load your savegame, there are thre
 3) The automatic pen info overlay which is displayed when getting close to any of your animal pens
 
 Additionally you can manually disable the automatic pen info or show a full overview of all your pens. You can toggle this behavior with the bindable hotkey (default F9) and cycle through these three states:
-a) Show popup only for nearby pen (default)
-b) Show popup with full overview
-c) Disabled / no popup info
+
+A) Show popup only for nearby pen (default)
+B) Show popup with full overview
+C) Disabled / no popup info
 
 
 ## INSTALLATION: 
