@@ -1,4 +1,4 @@
-# Stockman for Farming Simulator 19 - By w33zl
+# Stockman for Farming Simulator 19
 
 Stockman HUD gives you an overview of your animal husbandry with alerts and summaries of performance indicators (key statistics). This helps you be effective when caring for your livestock.
 
@@ -29,16 +29,14 @@ B) Show popup with full overview
 C) Disabled / no popup info
 
 
-# INSTALLATION: 
-¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+## INSTALLATION: 
 1. Download the mod (zip-file) http://modsfile.com/users/w33zl/
 2. Copy the zip-archive to your mods-folder
 3. Activate the mod when loading your savegame
 4. Enjoy
 
 
-# LIMITATIONS AND KNOWN ISSUES: 
-¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+## LIMITATIONS AND KNOWN ISSUES: 
 * Currently only supports one pen per animal type
 * Optimized and tested for Seasons (might work quite well for the vanilla game also, but this is unverified)
 * No settings to manually disable the alerts and icons
