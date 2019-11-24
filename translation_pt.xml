@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>w33zl/TheChoseOne</translationContributors>
+    <texts>
+        <text name="input_Stockman_OpenUI" text="Stockman: Abrir Stockman UI" />
+        <text name="input_Stockman_ToggleOverlay" text="Stockman: Alternar modo visualização" />
+        <text name="Stockman_ShowOverlay" text="Stockman: Toggle quick stats" />
+        <text name="stockman_shortcut_overview_pen" text="Stockman: Mostrar HUD [Perto curral]" />
+        <text name="stockman_shortcut_overview_full" text="Stockman: Mostrar HUD [Sempre]" />
+        <text name="stockman_shortcut_overview_hidden" text="Stockman: Mostrar HUD [nada]" />
+
+        <text name="stockman_alert_empty_critical" text="Atenção! {ANIMAL} não tem {WHAT}!" />
+        <text name="stockman_alert_lowlevel_warning" text="{ANIMAL} teem pouco {WHAT} ({PERCENT}%)" />
+        <text name="stockman_alert_lowlevel_critical" text="{ANIMAL} estão criticamente baixo em {WHAT} ({PERCENT}%)" />
+        <text name="stockman_alert_daysleft_warning" text="{WHAT} para {ANIMAL} duram apenas {days}" />
+        <text name="stockman_alert_daysleft_critical" text="{ANIMAL} vão ficar sem {WHAT} em poucas horas" />
+        <text name="stockman_alert_condition_info" text="{WHAT} para {ANIMAL} pode ser melhor" />
+        <text name="stockman_alert_condition_warning" text="{WHAT} para {ANIMAL} está baixo" />
+        <text name="stockman_alert_condition_critical" text="{WHAT} para {ANIMAL} está alarmantemente baixo" />
+    </texts>
+</l10n>
+
