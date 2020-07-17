@@ -33,7 +33,7 @@ C) Disabled / no popup info
 
 
 ## INSTALLATION: 
-1. Download the mod (zip-file) https://cdn11.giants-software.com/modHub/storage/00149147/FS19_Stockman.zip
+1. Download the mod (zip-file) from Giants ModHub: https://farming-simulator.com/mod.php?mod_id=149147
 2. Copy the zip-archive to your mods-folder
 3. Activate the mod when loading your savegame
 4. Enjoy
