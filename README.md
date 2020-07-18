@@ -44,3 +44,7 @@ C) Disabled / no popup info
 * Optimized and tested for Seasons (might work quite well for the vanilla game also, but this is unverified)
 * No settings to manually disable the alerts and icons
 * No translations, everything is (currently) in english (however there are prepared translation files if anyone would be inclined to translate) 
+
+## BUGS AND FEATURE REQUESTS:
+If you have experienced a bug or if you got a suggestion or feature request, head over to my [Stockman Project Page]( https://mikaelleven.myjetbrains.com/youtrack/projects/164c8cbe-c2da-47bb-834b-9ee770fadc11).
+
