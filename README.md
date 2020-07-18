@@ -46,5 +46,4 @@ C) Disabled / no popup info
 * No translations, everything is (currently) in english (however there are prepared translation files if anyone would be inclined to translate) 
 
 ## BUGS AND FEATURE REQUESTS:
-If you have experienced a bug or if you got a suggestion or feature request, head over to my [Stockman Project Page]( https://mikaelleven.myjetbrains.com/youtrack/projects/164c8cbe-c2da-47bb-834b-9ee770fadc11).
-
+If you have experienced a bug or if you got a suggestion or feature request, head over to my [Stockman Project Page]( https://mikaelleven.myjetbrains.com/youtrack/projects/164c8cbe-c2da-47bb-834b-9ee770fadc11). There you can see status of all reported issues and post your own issues/requests.
