@@ -3,7 +3,7 @@
 > ***Please note:**<br>*
 > 
 > *Bugs and feature requests, as well as general mod updates, are tracked and managed on the
-> **[project page for Stockman](https://mikaelleven.myjetbrains.com/youtrack/projects/164c8cbe-c2da-47bb-834b-9ee770fadc11)**!*
+> **[project page for Stockman](https://go.xilent.se/fs19_stockman)**!*
 > <br> <br>
 
 Stockman HUD gives you an overview of your animal husbandry with alerts and summaries of performance indicators (key statistics). This helps you be effective when caring for your livestock.
