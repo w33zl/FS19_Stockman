@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>Celeste</translationContributors>
+    <texts>
+        <text name="input_Stockman_ShowOverview" text="Stockman: Afficher la vue d'ensemble" />
+        <text name="input_Stockman_OpenUI" text="Stockman: Ouvrir l'interface" />
+        <text name="input_Stockman_ToggleOverlay" text="Stockman: Passer en mode d'affichage" />
+        <text name="Stockman_ShowOverlay" text="Stockman: Passez aux statistiques rapides" />
+        <text name="stockman_shortcut_overview_pen" text="Stockman: Afficher HUD [Près de la ferme]" />
+        <text name="stockman_shortcut_overview_full" text="Stockman: Affichage de HUD [Aperçu]" />
+        <text name="stockman_shortcut_overview_hidden" text="Stockman: Affichage de HUD [Aucun]]" />
+        <text name="stockman_alert_empty_critical" text="IMPORTANT ! Vos {ANIMAL} n'a plus de {WHAT} !" />
+        <text name="stockman_alert_lowlevel_warning" text="Vos {ANIMAL} Commence à êtrer à court de {WHAT} ({PERCENT}%)" />
+        <text name="stockman_alert_lowlevel_critical" text="Vos {ANIMAL} manque cruellement de {WHAT} ({PERCENT}%)" />
+        <text name="stockman_alert_daysleft_warning" text="{WHAT} à {ANIMAL} ne durent que {days}" />
+        <text name="stockman_alert_daysleft_critical" text="Vos {ANIMAL} sera à court de {WHAT} dans quelques heures" />
+        <text name="stockman_alert_condition_info" text="Le {WHAT} de vos {ANIMAL} pourrait être meilleur" />
+        <text name="stockman_alert_condition_warning" text="Le {WHAT} de vos {ANIMAL} est faible" />
+        <text name="stockman_alert_condition_critical" text="La {WHAT} de vos {ANIMAL} est alarmant" />
+    </texts>
+</l10n>
