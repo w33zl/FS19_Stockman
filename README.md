@@ -12,6 +12,7 @@ The mod is inspired by the great AnimalsHUD from xDeekay but with more focus on 
 
 ![](./images/stockman_cover_alerts_info.jpg)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0BB65P)
 
 ## FEATURES: 
 
